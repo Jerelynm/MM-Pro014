@@ -73,6 +73,1029 @@ build untitled13.exe: CXX_EXECUTABLE_LINKER__untitled13_Debug CMakeFiles/untitle
   TARGET_IMPLIB = libuntitled13.dll.a
   TARGET_PDB = untitled13.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target ParImpar
+
+
+#############################################
+# Order-only phony target for ParImpar
+
+build cmake_object_order_depends_target_ParImpar: phony || .
+
+build CMakeFiles/ParImpar.dir/ParImpar.cpp.obj: CXX_COMPILER__ParImpar_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/ParImpar.cpp || cmake_object_order_depends_target_ParImpar
+  DEP_FILE = CMakeFiles\ParImpar.dir\ParImpar.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ParImpar.dir
+  OBJECT_FILE_DIR = CMakeFiles\ParImpar.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ParImpar
+
+
+#############################################
+# Link the executable ParImpar.exe
+
+build ParImpar.exe: CXX_EXECUTABLE_LINKER__ParImpar_Debug CMakeFiles/ParImpar.dir/ParImpar.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ParImpar.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ParImpar.exe
+  TARGET_IMPLIB = libParImpar.dll.a
+  TARGET_PDB = ParImpar.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Nmayor
+
+
+#############################################
+# Order-only phony target for Nmayor
+
+build cmake_object_order_depends_target_Nmayor: phony || .
+
+build CMakeFiles/Nmayor.dir/Nmayor.cpp.obj: CXX_COMPILER__Nmayor_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Nmayor.cpp || cmake_object_order_depends_target_Nmayor
+  DEP_FILE = CMakeFiles\Nmayor.dir\Nmayor.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Nmayor.dir
+  OBJECT_FILE_DIR = CMakeFiles\Nmayor.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Nmayor
+
+
+#############################################
+# Link the executable Nmayor.exe
+
+build Nmayor.exe: CXX_EXECUTABLE_LINKER__Nmayor_Debug CMakeFiles/Nmayor.dir/Nmayor.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Nmayor.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Nmayor.exe
+  TARGET_IMPLIB = libNmayor.dll.a
+  TARGET_PDB = Nmayor.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Abisiesto
+
+
+#############################################
+# Order-only phony target for Abisiesto
+
+build cmake_object_order_depends_target_Abisiesto: phony || .
+
+build CMakeFiles/Abisiesto.dir/Abisiesto.cpp.obj: CXX_COMPILER__Abisiesto_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Abisiesto.cpp || cmake_object_order_depends_target_Abisiesto
+  DEP_FILE = CMakeFiles\Abisiesto.dir\Abisiesto.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Abisiesto.dir
+  OBJECT_FILE_DIR = CMakeFiles\Abisiesto.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Abisiesto
+
+
+#############################################
+# Link the executable Abisiesto.exe
+
+build Abisiesto.exe: CXX_EXECUTABLE_LINKER__Abisiesto_Debug CMakeFiles/Abisiesto.dir/Abisiesto.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Abisiesto.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Abisiesto.exe
+  TARGET_IMPLIB = libAbisiesto.dll.a
+  TARGET_PDB = Abisiesto.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ConsV
+
+
+#############################################
+# Order-only phony target for ConsV
+
+build cmake_object_order_depends_target_ConsV: phony || .
+
+build CMakeFiles/ConsV.dir/ConsV.cpp.obj: CXX_COMPILER__ConsV_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/ConsV.cpp || cmake_object_order_depends_target_ConsV
+  DEP_FILE = CMakeFiles\ConsV.dir\ConsV.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ConsV.dir
+  OBJECT_FILE_DIR = CMakeFiles\ConsV.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ConsV
+
+
+#############################################
+# Link the executable ConsV.exe
+
+build ConsV.exe: CXX_EXECUTABLE_LINKER__ConsV_Debug CMakeFiles/ConsV.dir/ConsV.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ConsV.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ConsV.exe
+  TARGET_IMPLIB = libConsV.dll.a
+  TARGET_PDB = ConsV.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target NumPri
+
+
+#############################################
+# Order-only phony target for NumPri
+
+build cmake_object_order_depends_target_NumPri: phony || .
+
+build CMakeFiles/NumPri.dir/NumPri.cpp.obj: CXX_COMPILER__NumPri_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/NumPri.cpp || cmake_object_order_depends_target_NumPri
+  DEP_FILE = CMakeFiles\NumPri.dir\NumPri.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\NumPri.dir
+  OBJECT_FILE_DIR = CMakeFiles\NumPri.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NumPri
+
+
+#############################################
+# Link the executable NumPri.exe
+
+build NumPri.exe: CXX_EXECUTABLE_LINKER__NumPri_Debug CMakeFiles/NumPri.dir/NumPri.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NumPri.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NumPri.exe
+  TARGET_IMPLIB = libNumPri.dll.a
+  TARGET_PDB = NumPri.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Nacimiento
+
+
+#############################################
+# Order-only phony target for Nacimiento
+
+build cmake_object_order_depends_target_Nacimiento: phony || .
+
+build CMakeFiles/Nacimiento.dir/Nacimiento.cpp.obj: CXX_COMPILER__Nacimiento_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Nacimiento.cpp || cmake_object_order_depends_target_Nacimiento
+  DEP_FILE = CMakeFiles\Nacimiento.dir\Nacimiento.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Nacimiento.dir
+  OBJECT_FILE_DIR = CMakeFiles\Nacimiento.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Nacimiento
+
+
+#############################################
+# Link the executable Nacimiento.exe
+
+build Nacimiento.exe: CXX_EXECUTABLE_LINKER__Nacimiento_Debug CMakeFiles/Nacimiento.dir/Nacimiento.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Nacimiento.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Nacimiento.exe
+  TARGET_IMPLIB = libNacimiento.dll.a
+  TARGET_PDB = Nacimiento.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Mul5y7
+
+
+#############################################
+# Order-only phony target for Mul5y7
+
+build cmake_object_order_depends_target_Mul5y7: phony || .
+
+build CMakeFiles/Mul5y7.dir/Mul5y7.cpp.obj: CXX_COMPILER__Mul5y7_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Mul5y7.cpp || cmake_object_order_depends_target_Mul5y7
+  DEP_FILE = CMakeFiles\Mul5y7.dir\Mul5y7.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Mul5y7.dir
+  OBJECT_FILE_DIR = CMakeFiles\Mul5y7.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Mul5y7
+
+
+#############################################
+# Link the executable Mul5y7.exe
+
+build Mul5y7.exe: CXX_EXECUTABLE_LINKER__Mul5y7_Debug CMakeFiles/Mul5y7.dir/Mul5y7.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Mul5y7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Mul5y7.exe
+  TARGET_IMPLIB = libMul5y7.dll.a
+  TARGET_PDB = Mul5y7.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target CalificacionN
+
+
+#############################################
+# Order-only phony target for CalificacionN
+
+build cmake_object_order_depends_target_CalificacionN: phony || .
+
+build CMakeFiles/CalificacionN.dir/CalificacionN.cpp.obj: CXX_COMPILER__CalificacionN_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/CalificacionN.cpp || cmake_object_order_depends_target_CalificacionN
+  DEP_FILE = CMakeFiles\CalificacionN.dir\CalificacionN.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CalificacionN.dir
+  OBJECT_FILE_DIR = CMakeFiles\CalificacionN.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target CalificacionN
+
+
+#############################################
+# Link the executable CalificacionN.exe
+
+build CalificacionN.exe: CXX_EXECUTABLE_LINKER__CalificacionN_Debug CMakeFiles/CalificacionN.dir/CalificacionN.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\CalificacionN.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = CalificacionN.exe
+  TARGET_IMPLIB = libCalificacionN.dll.a
+  TARGET_PDB = CalificacionN.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Descuento
+
+
+#############################################
+# Order-only phony target for Descuento
+
+build cmake_object_order_depends_target_Descuento: phony || .
+
+build CMakeFiles/Descuento.dir/Descuento.cpp.obj: CXX_COMPILER__Descuento_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Descuento.cpp || cmake_object_order_depends_target_Descuento
+  DEP_FILE = CMakeFiles\Descuento.dir\Descuento.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Descuento.dir
+  OBJECT_FILE_DIR = CMakeFiles\Descuento.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Descuento
+
+
+#############################################
+# Link the executable Descuento.exe
+
+build Descuento.exe: CXX_EXECUTABLE_LINKER__Descuento_Debug CMakeFiles/Descuento.dir/Descuento.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Descuento.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Descuento.exe
+  TARGET_IMPLIB = libDescuento.dll.a
+  TARGET_PDB = Descuento.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Asc
+
+
+#############################################
+# Order-only phony target for Asc
+
+build cmake_object_order_depends_target_Asc: phony || .
+
+build CMakeFiles/Asc.dir/Asc.cpp.obj: CXX_COMPILER__Asc_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Asc.cpp || cmake_object_order_depends_target_Asc
+  DEP_FILE = CMakeFiles\Asc.dir\Asc.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Asc.dir
+  OBJECT_FILE_DIR = CMakeFiles\Asc.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Asc
+
+
+#############################################
+# Link the executable Asc.exe
+
+build Asc.exe: CXX_EXECUTABLE_LINKER__Asc_Debug CMakeFiles/Asc.dir/Asc.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Asc.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Asc.exe
+  TARGET_IMPLIB = libAsc.dll.a
+  TARGET_PDB = Asc.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lim
+
+
+#############################################
+# Order-only phony target for lim
+
+build cmake_object_order_depends_target_lim: phony || .
+
+build CMakeFiles/lim.dir/lim.cpp.obj: CXX_COMPILER__lim_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/lim.cpp || cmake_object_order_depends_target_lim
+  DEP_FILE = CMakeFiles\lim.dir\lim.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\lim.dir
+  OBJECT_FILE_DIR = CMakeFiles\lim.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lim
+
+
+#############################################
+# Link the executable lim.exe
+
+build lim.exe: CXX_EXECUTABLE_LINKER__lim_Debug CMakeFiles/lim.dir/lim.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lim.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lim.exe
+  TARGET_IMPLIB = liblim.dll.a
+  TARGET_PDB = lim.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target sumneg
+
+
+#############################################
+# Order-only phony target for sumneg
+
+build cmake_object_order_depends_target_sumneg: phony || .
+
+build CMakeFiles/sumneg.dir/sumneg.cpp.obj: CXX_COMPILER__sumneg_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/sumneg.cpp || cmake_object_order_depends_target_sumneg
+  DEP_FILE = CMakeFiles\sumneg.dir\sumneg.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\sumneg.dir
+  OBJECT_FILE_DIR = CMakeFiles\sumneg.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target sumneg
+
+
+#############################################
+# Link the executable sumneg.exe
+
+build sumneg.exe: CXX_EXECUTABLE_LINKER__sumneg_Debug CMakeFiles/sumneg.dir/sumneg.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\sumneg.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = sumneg.exe
+  TARGET_IMPLIB = libsumneg.dll.a
+  TARGET_PDB = sumneg.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Fibonacci
+
+
+#############################################
+# Order-only phony target for Fibonacci
+
+build cmake_object_order_depends_target_Fibonacci: phony || .
+
+build CMakeFiles/Fibonacci.dir/FibonacciWhile.cpp.obj: CXX_COMPILER__Fibonacci_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/FibonacciWhile.cpp || cmake_object_order_depends_target_Fibonacci
+  DEP_FILE = CMakeFiles\Fibonacci.dir\FibonacciWhile.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Fibonacci.dir
+  OBJECT_FILE_DIR = CMakeFiles\Fibonacci.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Fibonacci
+
+
+#############################################
+# Link the executable Fibonacci.exe
+
+build Fibonacci.exe: CXX_EXECUTABLE_LINKER__Fibonacci_Debug CMakeFiles/Fibonacci.dir/FibonacciWhile.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Fibonacci.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Fibonacci.exe
+  TARGET_IMPLIB = libFibonacci.dll.a
+  TARGET_PDB = Fibonacci.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Mc
+
+
+#############################################
+# Order-only phony target for Mc
+
+build cmake_object_order_depends_target_Mc: phony || .
+
+build CMakeFiles/Mc.dir/Mc.cpp.obj: CXX_COMPILER__Mc_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Mc.cpp || cmake_object_order_depends_target_Mc
+  DEP_FILE = CMakeFiles\Mc.dir\Mc.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Mc.dir
+  OBJECT_FILE_DIR = CMakeFiles\Mc.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Mc
+
+
+#############################################
+# Link the executable Mc.exe
+
+build Mc.exe: CXX_EXECUTABLE_LINKER__Mc_Debug CMakeFiles/Mc.dir/Mc.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Mc.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Mc.exe
+  TARGET_IMPLIB = libMc.dll.a
+  TARGET_PDB = Mc.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Tpar
+
+
+#############################################
+# Order-only phony target for Tpar
+
+build cmake_object_order_depends_target_Tpar: phony || .
+
+build CMakeFiles/Tpar.dir/Tpar.cpp.obj: CXX_COMPILER__Tpar_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Tpar.cpp || cmake_object_order_depends_target_Tpar
+  DEP_FILE = CMakeFiles\Tpar.dir\Tpar.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Tpar.dir
+  OBJECT_FILE_DIR = CMakeFiles\Tpar.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Tpar
+
+
+#############################################
+# Link the executable Tpar.exe
+
+build Tpar.exe: CXX_EXECUTABLE_LINKER__Tpar_Debug CMakeFiles/Tpar.dir/Tpar.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Tpar.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Tpar.exe
+  TARGET_IMPLIB = libTpar.dll.a
+  TARGET_PDB = Tpar.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Media
+
+
+#############################################
+# Order-only phony target for Media
+
+build cmake_object_order_depends_target_Media: phony || .
+
+build CMakeFiles/Media.dir/Media.cpp.obj: CXX_COMPILER__Media_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Media.cpp || cmake_object_order_depends_target_Media
+  DEP_FILE = CMakeFiles\Media.dir\Media.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Media.dir
+  OBJECT_FILE_DIR = CMakeFiles\Media.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Media
+
+
+#############################################
+# Link the executable Media.exe
+
+build Media.exe: CXX_EXECUTABLE_LINKER__Media_Debug CMakeFiles/Media.dir/Media.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Media.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Media.exe
+  TARGET_IMPLIB = libMedia.dll.a
+  TARGET_PDB = Media.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Media-1
+
+
+#############################################
+# Order-only phony target for Media-1
+
+build cmake_object_order_depends_target_Media-1: phony || .
+
+build CMakeFiles/Media-1.dir/Media-1.cpp.obj: CXX_COMPILER__Media-1_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Media-1.cpp || cmake_object_order_depends_target_Media-1
+  DEP_FILE = CMakeFiles\Media-1.dir\Media-1.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Media-1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Media-1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Media-1
+
+
+#############################################
+# Link the executable Media-1.exe
+
+build Media-1.exe: CXX_EXECUTABLE_LINKER__Media-1_Debug CMakeFiles/Media-1.dir/Media-1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Media-1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Media-1.exe
+  TARGET_IMPLIB = libMedia-1.dll.a
+  TARGET_PDB = Media-1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target INum
+
+
+#############################################
+# Order-only phony target for INum
+
+build cmake_object_order_depends_target_INum: phony || .
+
+build CMakeFiles/INum.dir/INum.cpp.obj: CXX_COMPILER__INum_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/INum.cpp || cmake_object_order_depends_target_INum
+  DEP_FILE = CMakeFiles\INum.dir\INum.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\INum.dir
+  OBJECT_FILE_DIR = CMakeFiles\INum.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target INum
+
+
+#############################################
+# Link the executable INum.exe
+
+build INum.exe: CXX_EXECUTABLE_LINKER__INum_Debug CMakeFiles/INum.dir/INum.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\INum.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = INum.exe
+  TARGET_IMPLIB = libINum.dll.a
+  TARGET_PDB = INum.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10Num
+
+
+#############################################
+# Order-only phony target for 10Num
+
+build cmake_object_order_depends_target_10Num: phony || .
+
+build CMakeFiles/10Num.dir/10Num.cpp.obj: CXX_COMPILER__10Num_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/10Num.cpp || cmake_object_order_depends_target_10Num
+  DEP_FILE = CMakeFiles\10Num.dir\10Num.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\10Num.dir
+  OBJECT_FILE_DIR = CMakeFiles\10Num.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10Num
+
+
+#############################################
+# Link the executable 10Num.exe
+
+build 10Num.exe: CXX_EXECUTABLE_LINKER__10Num_Debug CMakeFiles/10Num.dir/10Num.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\10Num.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 10Num.exe
+  TARGET_IMPLIB = lib10Num.dll.a
+  TARGET_PDB = 10Num.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Product10
+
+
+#############################################
+# Order-only phony target for Product10
+
+build cmake_object_order_depends_target_Product10: phony || .
+
+build CMakeFiles/Product10.dir/Produc10.cpp.obj: CXX_COMPILER__Product10_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Produc10.cpp || cmake_object_order_depends_target_Product10
+  DEP_FILE = CMakeFiles\Product10.dir\Produc10.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Product10.dir
+  OBJECT_FILE_DIR = CMakeFiles\Product10.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Product10
+
+
+#############################################
+# Link the executable Product10.exe
+
+build Product10.exe: CXX_EXECUTABLE_LINKER__Product10_Debug CMakeFiles/Product10.dir/Produc10.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Product10.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Product10.exe
+  TARGET_IMPLIB = libProduct10.dll.a
+  TARGET_PDB = Product10.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Par2
+
+
+#############################################
+# Order-only phony target for Par2
+
+build cmake_object_order_depends_target_Par2: phony || .
+
+build CMakeFiles/Par2.dir/Par2.cpp.obj: CXX_COMPILER__Par2_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Par2.cpp || cmake_object_order_depends_target_Par2
+  DEP_FILE = CMakeFiles\Par2.dir\Par2.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Par2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Par2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Par2
+
+
+#############################################
+# Link the executable Par2.exe
+
+build Par2.exe: CXX_EXECUTABLE_LINKER__Par2_Debug CMakeFiles/Par2.dir/Par2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Par2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Par2.exe
+  TARGET_IMPLIB = libPar2.dll.a
+  TARGET_PDB = Par2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Multi
+
+
+#############################################
+# Order-only phony target for Multi
+
+build cmake_object_order_depends_target_Multi: phony || .
+
+build CMakeFiles/Multi.dir/Multi.cpp.obj: CXX_COMPILER__Multi_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Multi.cpp || cmake_object_order_depends_target_Multi
+  DEP_FILE = CMakeFiles\Multi.dir\Multi.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Multi.dir
+  OBJECT_FILE_DIR = CMakeFiles\Multi.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Multi
+
+
+#############################################
+# Link the executable Multi.exe
+
+build Multi.exe: CXX_EXECUTABLE_LINKER__Multi_Debug CMakeFiles/Multi.dir/Multi.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Multi.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Multi.exe
+  TARGET_IMPLIB = libMulti.dll.a
+  TARGET_PDB = Multi.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Entp
+
+
+#############################################
+# Order-only phony target for Entp
+
+build cmake_object_order_depends_target_Entp: phony || .
+
+build CMakeFiles/Entp.dir/Entp.cpp.obj: CXX_COMPILER__Entp_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Entp.cpp || cmake_object_order_depends_target_Entp
+  DEP_FILE = CMakeFiles\Entp.dir\Entp.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Entp.dir
+  OBJECT_FILE_DIR = CMakeFiles\Entp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Entp
+
+
+#############################################
+# Link the executable Entp.exe
+
+build Entp.exe: CXX_EXECUTABLE_LINKER__Entp_Debug CMakeFiles/Entp.dir/Entp.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Entp.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Entp.exe
+  TARGET_IMPLIB = libEntp.dll.a
+  TARGET_PDB = Entp.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Factorial
+
+
+#############################################
+# Order-only phony target for Factorial
+
+build cmake_object_order_depends_target_Factorial: phony || .
+
+build CMakeFiles/Factorial.dir/Factorial.cpp.obj: CXX_COMPILER__Factorial_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Factorial.cpp || cmake_object_order_depends_target_Factorial
+  DEP_FILE = CMakeFiles\Factorial.dir\Factorial.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Factorial.dir
+  OBJECT_FILE_DIR = CMakeFiles\Factorial.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Factorial
+
+
+#############################################
+# Link the executable Factorial.exe
+
+build Factorial.exe: CXX_EXECUTABLE_LINKER__Factorial_Debug CMakeFiles/Factorial.dir/Factorial.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Factorial.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Factorial.exe
+  TARGET_IMPLIB = libFactorial.dll.a
+  TARGET_PDB = Factorial.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Sprim
+
+
+#############################################
+# Order-only phony target for Sprim
+
+build cmake_object_order_depends_target_Sprim: phony || .
+
+build CMakeFiles/Sprim.dir/Sprim.cpp.obj: CXX_COMPILER__Sprim_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Sprim.cpp || cmake_object_order_depends_target_Sprim
+  DEP_FILE = CMakeFiles\Sprim.dir\Sprim.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Sprim.dir
+  OBJECT_FILE_DIR = CMakeFiles\Sprim.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Sprim
+
+
+#############################################
+# Link the executable Sprim.exe
+
+build Sprim.exe: CXX_EXECUTABLE_LINKER__Sprim_Debug CMakeFiles/Sprim.dir/Sprim.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Sprim.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Sprim.exe
+  TARGET_IMPLIB = libSprim.dll.a
+  TARGET_PDB = Sprim.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Triangulo
+
+
+#############################################
+# Order-only phony target for Triangulo
+
+build cmake_object_order_depends_target_Triangulo: phony || .
+
+build CMakeFiles/Triangulo.dir/Triangulo.cpp.obj: CXX_COMPILER__Triangulo_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Triangulo.cpp || cmake_object_order_depends_target_Triangulo
+  DEP_FILE = CMakeFiles\Triangulo.dir\Triangulo.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Triangulo.dir
+  OBJECT_FILE_DIR = CMakeFiles\Triangulo.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Triangulo
+
+
+#############################################
+# Link the executable Triangulo.exe
+
+build Triangulo.exe: CXX_EXECUTABLE_LINKER__Triangulo_Debug CMakeFiles/Triangulo.dir/Triangulo.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Triangulo.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Triangulo.exe
+  TARGET_IMPLIB = libTriangulo.dll.a
+  TARGET_PDB = Triangulo.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target FibonacciFor
+
+
+#############################################
+# Order-only phony target for FibonacciFor
+
+build cmake_object_order_depends_target_FibonacciFor: phony || .
+
+build CMakeFiles/FibonacciFor.dir/FibonacciFor.cpp.obj: CXX_COMPILER__FibonacciFor_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/FibonacciFor.cpp || cmake_object_order_depends_target_FibonacciFor
+  DEP_FILE = CMakeFiles\FibonacciFor.dir\FibonacciFor.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FibonacciFor.dir
+  OBJECT_FILE_DIR = CMakeFiles\FibonacciFor.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target FibonacciFor
+
+
+#############################################
+# Link the executable FibonacciFor.exe
+
+build FibonacciFor.exe: CXX_EXECUTABLE_LINKER__FibonacciFor_Debug CMakeFiles/FibonacciFor.dir/FibonacciFor.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\FibonacciFor.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = FibonacciFor.exe
+  TARGET_IMPLIB = libFibonacciFor.dll.a
+  TARGET_PDB = FibonacciFor.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Sum100
+
+
+#############################################
+# Order-only phony target for Sum100
+
+build cmake_object_order_depends_target_Sum100: phony || .
+
+build CMakeFiles/Sum100.dir/Sum100.cpp.obj: CXX_COMPILER__Sum100_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Sum100.cpp || cmake_object_order_depends_target_Sum100
+  DEP_FILE = CMakeFiles\Sum100.dir\Sum100.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Sum100.dir
+  OBJECT_FILE_DIR = CMakeFiles\Sum100.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Sum100
+
+
+#############################################
+# Link the executable Sum100.exe
+
+build Sum100.exe: CXX_EXECUTABLE_LINKER__Sum100_Debug CMakeFiles/Sum100.dir/Sum100.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Sum100.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Sum100.exe
+  TARGET_IMPLIB = libSum100.dll.a
+  TARGET_PDB = Sum100.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Div
+
+
+#############################################
+# Order-only phony target for Div
+
+build cmake_object_order_depends_target_Div: phony || .
+
+build CMakeFiles/Div.dir/Div.cpp.obj: CXX_COMPILER__Div_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/Div.cpp || cmake_object_order_depends_target_Div
+  DEP_FILE = CMakeFiles\Div.dir\Div.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Div.dir
+  OBJECT_FILE_DIR = CMakeFiles\Div.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Div
+
+
+#############################################
+# Link the executable Div.exe
+
+build Div.exe: CXX_EXECUTABLE_LINKER__Div_Debug CMakeFiles/Div.dir/Div.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Div.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Div.exe
+  TARGET_IMPLIB = libDiv.dll.a
+  TARGET_PDB = Div.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10prim
+
+
+#############################################
+# Order-only phony target for 10prim
+
+build cmake_object_order_depends_target_10prim: phony || .
+
+build CMakeFiles/10prim.dir/10prim.cpp.obj: CXX_COMPILER__10prim_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/10prim.cpp || cmake_object_order_depends_target_10prim
+  DEP_FILE = CMakeFiles\10prim.dir\10prim.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\10prim.dir
+  OBJECT_FILE_DIR = CMakeFiles\10prim.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10prim
+
+
+#############################################
+# Link the executable 10prim.exe
+
+build 10prim.exe: CXX_EXECUTABLE_LINKER__10prim_Debug CMakeFiles/10prim.dir/10prim.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\10prim.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 10prim.exe
+  TARGET_IMPLIB = lib10prim.dll.a
+  TARGET_PDB = 10prim.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target MENU
+
+
+#############################################
+# Order-only phony target for MENU
+
+build cmake_object_order_depends_target_MENU: phony || .
+
+build CMakeFiles/MENU.dir/MENU.cpp.obj: CXX_COMPILER__MENU_unscanned_Debug C$:/Users/admin/CLionProjects/untitled13/MENU.cpp || cmake_object_order_depends_target_MENU
+  DEP_FILE = CMakeFiles\MENU.dir\MENU.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\MENU.dir
+  OBJECT_FILE_DIR = CMakeFiles\MENU.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target MENU
+
+
+#############################################
+# Link the executable MENU.exe
+
+build MENU.exe: CXX_EXECUTABLE_LINKER__MENU_Debug CMakeFiles/MENU.dir/MENU.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\MENU.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = MENU.exe
+  TARGET_IMPLIB = libMENU.dll.a
+  TARGET_PDB = MENU.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -99,6 +1122,68 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build 10Num: phony 10Num.exe
+
+build 10prim: phony 10prim.exe
+
+build Abisiesto: phony Abisiesto.exe
+
+build Asc: phony Asc.exe
+
+build CalificacionN: phony CalificacionN.exe
+
+build ConsV: phony ConsV.exe
+
+build Descuento: phony Descuento.exe
+
+build Div: phony Div.exe
+
+build Entp: phony Entp.exe
+
+build Factorial: phony Factorial.exe
+
+build Fibonacci: phony Fibonacci.exe
+
+build FibonacciFor: phony FibonacciFor.exe
+
+build INum: phony INum.exe
+
+build MENU: phony MENU.exe
+
+build Mc: phony Mc.exe
+
+build Media: phony Media.exe
+
+build Media-1: phony Media-1.exe
+
+build Mul5y7: phony Mul5y7.exe
+
+build Multi: phony Multi.exe
+
+build Nacimiento: phony Nacimiento.exe
+
+build Nmayor: phony Nmayor.exe
+
+build NumPri: phony NumPri.exe
+
+build Par2: phony Par2.exe
+
+build ParImpar: phony ParImpar.exe
+
+build Product10: phony Product10.exe
+
+build Sprim: phony Sprim.exe
+
+build Sum100: phony Sum100.exe
+
+build Tpar: phony Tpar.exe
+
+build Triangulo: phony Triangulo.exe
+
+build lim: phony lim.exe
+
+build sumneg: phony sumneg.exe
+
 build untitled13: phony untitled13.exe
 
 # =============================================================================
@@ -109,7 +1194,7 @@ build untitled13: phony untitled13.exe
 #############################################
 # Folder: C:/Users/admin/CLionProjects/untitled13/cmake-build-debug
 
-build all: phony untitled13.exe
+build all: phony untitled13.exe ParImpar.exe Nmayor.exe Abisiesto.exe ConsV.exe NumPri.exe Nacimiento.exe Mul5y7.exe CalificacionN.exe Descuento.exe Asc.exe lim.exe sumneg.exe Fibonacci.exe Mc.exe Tpar.exe Media.exe Media-1.exe INum.exe 10Num.exe Product10.exe Par2.exe Multi.exe Entp.exe Factorial.exe Sprim.exe Triangulo.exe FibonacciFor.exe Sum100.exe Div.exe 10prim.exe MENU.exe
 
 # =============================================================================
 # Built-in targets

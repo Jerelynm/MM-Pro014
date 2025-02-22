@@ -1,0 +1,339 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untitled13",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "10Num::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10Num-Debug-0c76dba30ba94babdc74.json",
+					"name" : "10Num",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10prim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10prim-Debug-db271b501e7563a0a432.json",
+					"name" : "10prim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Abisiesto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Abisiesto-Debug-3675205b03f9c6f9f0c1.json",
+					"name" : "Abisiesto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Asc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Asc-Debug-3773dbcef28c4fcb08bf.json",
+					"name" : "Asc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CalificacionN::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CalificacionN-Debug-fd82c6281ac0b0454153.json",
+					"name" : "CalificacionN",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ConsV::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ConsV-Debug-d40e927b48daac243316.json",
+					"name" : "ConsV",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Descuento::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Descuento-Debug-45c2956d2d719e948b7f.json",
+					"name" : "Descuento",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Div::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Div-Debug-d5873d51281211460584.json",
+					"name" : "Div",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Entp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Entp-Debug-fe0cbc9ad344b04b793d.json",
+					"name" : "Entp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Factorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Factorial-Debug-6ee762d5597b3834d68c.json",
+					"name" : "Factorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fibonacci::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fibonacci-Debug-fa53d8f8b61842df0ecb.json",
+					"name" : "Fibonacci",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FibonacciFor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FibonacciFor-Debug-0835108f461780a9a2b0.json",
+					"name" : "FibonacciFor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "INum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-INum-Debug-a09840fb3fb26b7a43fe.json",
+					"name" : "INum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MENU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MENU-Debug-28becbf061699a4f312d.json",
+					"name" : "MENU",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Mc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Mc-Debug-76d9deb52a883555a481.json",
+					"name" : "Mc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Media::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Media-Debug-7c596e70b454b9cf1017.json",
+					"name" : "Media",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Media-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Media-1-Debug-d6e14bca8ffeb3119247.json",
+					"name" : "Media-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Mul5y7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Mul5y7-Debug-ada32eb7343fa92cf679.json",
+					"name" : "Mul5y7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Multi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Multi-Debug-c9979e4634552c6db484.json",
+					"name" : "Multi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Nacimiento::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Nacimiento-Debug-858be7901312ce6fc40e.json",
+					"name" : "Nacimiento",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Nmayor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Nmayor-Debug-0b20eac6a0bafa47291f.json",
+					"name" : "Nmayor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NumPri::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NumPri-Debug-9e5e34820f39c969cd04.json",
+					"name" : "NumPri",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Par2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Par2-Debug-8f4963e7593e2b8872d2.json",
+					"name" : "Par2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ParImpar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ParImpar-Debug-c24f85d634f5692af5e4.json",
+					"name" : "ParImpar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Product10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Product10-Debug-c60372ab27a07fcabd51.json",
+					"name" : "Product10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sprim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sprim-Debug-14fa55cd4cec14945a2a.json",
+					"name" : "Sprim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sum100::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sum100-Debug-c486fe8996552cc9d330.json",
+					"name" : "Sum100",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tpar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tpar-Debug-0068010fee073460b532.json",
+					"name" : "Tpar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Triangulo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Triangulo-Debug-929ab46028544f188e0b.json",
+					"name" : "Triangulo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lim-Debug-0129a4b2a76d8d52fcda.json",
+					"name" : "lim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sumneg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sumneg-Debug-223b943df36ad529cdac.json",
+					"name" : "sumneg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "untitled13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untitled13-Debug-91523c9c0639edf8427c.json",
+					"name" : "untitled13",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/admin/CLionProjects/untitled13/cmake-build-debug",
+		"source" : "C:/Users/admin/CLionProjects/untitled13"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
